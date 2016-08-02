@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EAEB8B38BE5140CD4ADED3EEF21B86ABAE979C14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3E32E4923309387B5F0325DF11F1D78DBDC75FB" : 0,
+    "EAEB8B38BE5140CD4ADED3EEF21B86ABAE979C14" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B1E4D67-4FB5-4C22-87B6-9F7E4CB825FB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3E32E4923309387B5F0325DF11F1D78DBDC75FB" : "UIKeyBordPopUPCpntroller\/UIKeyBordPopUPCpntroller\/",
+    "EAEB8B38BE5140CD4ADED3EEF21B86ABAE979C14" : "UIKeyBordPopUPCpntroller\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "UIKeyBordPopUPCpntroller",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "UIKeyBordPopUPCpntroller.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gongchun\/UIKeyBordPopUPController.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3E32E4923309387B5F0325DF11F1D78DBDC75FB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gongchun\/UIKeyBordPopUPCpntroller.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAEB8B38BE5140CD4ADED3EEF21B86ABAE979C14"
+    }
+  ]
+}
